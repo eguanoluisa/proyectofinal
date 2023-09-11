@@ -1,0 +1,7 @@
+import requests
+import BeautifulSoup
+import re
+import mysql.connector
+XAMPP
+MYSQ
+PYTHON
